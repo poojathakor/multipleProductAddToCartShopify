@@ -33,7 +33,7 @@ jQuery(function($) {
         
       }
       
-		console.log(checkedArray);
+	console.log(checkedArray);
         console.log(Qty);
       for(var i=0 ; i < checkedArray.length;i++ ){
         
